@@ -1,4 +1,4 @@
-# Arcade
+# Ahmed's Arcade
 
 **Personal project | Java | 2023**
 
